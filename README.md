@@ -2,11 +2,11 @@
 
 ## I'm a Full Stack developer that's ready to bring your dreams to fruition.
 
-I'm skilled in frontend design, designing RESTful APIs, and JavaScript development. I like using Typescript, and React for the front end and Node or Python Django for the backend. Furthermore, I’m comfortable working with SQL and NoSQL databases, and I'm currently learning Java and Spring Boot. Not only that, but I also make music.
+Full-stack developer specializing in modern web applications with Next.js, TypeScript, and Spring Boot. Currently building products at NEWRGM INDUSTRIES while expanding expertise in cloud architecture and AI integration. Previously led successful digital transformations and e-commerce solutions, consistently achieving 95%+ customer satisfaction and significant performance improvements. Passionate about creating scalable, user-centered applications that solve real business problems.
 
 - 🌍  I'm based in Little Rock, AR
 - 🖥️  See my portfolio at [cgstewart.dev](https://cgstewart.dev)
-- ✉️  You can contact me at [cam@cgstewart.dev](mailto:cam@cgstewart.dev)
+- ✉️  You can contact me at [hire@cgstewart.dev](mailto:hire@cgstewart.dev)
 - 🚀  I'm currently working on [Building the NEWRGM](http://newrgm.com)
 - 🧠  I'm learning Java and Spring Boot
 - 🤝  I'm open to collaborating on building full stack, typesafe web applications, that run blazingly fast, and scale to infinity and beyond.
@@ -37,4 +37,4 @@ I'm skilled in frontend design, designing RESTful APIs, and JavaScript developme
 
 ### Badges
 
-<a href="https://github.com/cg-stewart" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=babyfacecam&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/cg-stewart" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cg-stewart&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
